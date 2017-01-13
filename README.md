@@ -15,3 +15,7 @@ ISP adapter for Arduino Pro Mini and Pro Micro.
 
 #### labeled-breadboard-400.per
 400 point solderless breadboard with labels.
+
+
+#### Contributing
+Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/asdf/blob/master/CONTRIBUTING.md) for instructions.
