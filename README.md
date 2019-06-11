@@ -18,4 +18,4 @@ ISP adapter for Arduino Pro Mini and Pro Micro.
 
 
 #### Contributing
-Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/asdf/blob/master/CONTRIBUTING.md) for instructions.
+Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/asdf/blob/master/.github/CONTRIBUTING.md) for instructions.
